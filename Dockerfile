@@ -1,4 +1,4 @@
-From java:8
+FROM java:8
 COPY Imidelware.java .
 RUN javac Imidelware.java
 
